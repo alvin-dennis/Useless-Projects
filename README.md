@@ -1,95 +1,75 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Quirkulator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Cyber Guardians
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Alvin Dennis - Sjcet Palai
+- Member 2: Jobin Jose - Sjcet Palai
+- Member 3: Angel Maria - Sjcet Palai
 
 ### Project Description
-[2-3 lines about what your project does]
+A calculator that always gives you the wrong answer on purpose. Or, instead of numbers, it returns random sentences!
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem (that doesn’t exist)
+Ever been overwhelmed by the burden of accurate math? Have you ever felt weighed down by calculators always giving you the correct answer? Numbers, math, and precision can be so stressful. What if you wanted just a bit of random positivity instead of the cold, hard truth of numbers? Why let calculators monopolize “correctness” when they could deliver smiles and wrong answers instead?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Enter the **Quirkulator**! Instead of accurate math, this innovative calculator brings you the results you never needed in the first place. With each “calculation,” it might give you a hilariously off-the-mark answer or, better yet, a random compliment like, “You’re a math genius!” or “Wow, look at you go!” Our calculator may be useless for math, but it’s a powerhouse of encouragement. Why settle for mere math when you could get a dose of positivity with every “calculation”?
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- **Languages used**: JavaScript
+- **Frameworks used**: React, Vite
+- **Libraries used**: Framer motion, Tailwind CSS
+- **Tools used**: 
+  - Vite (for fast development)
+  - NPM (for package management)
+  - VS Code (for coding and debugging)
+  - Git (for version control)
+  - Browser DevTools (for testing and debugging)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+To get started, clone the repository and install the dependencies:
 
-# Run
-[commands]
+```bash
+git clone https://github.com/alvin-dennis/useless-calculator.git
+
+cd useless-calculator
+
+npm install
+
+npm run dev
+```
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Add caption explaining what this shows
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Add caption explaining what this shows
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Add caption explaining what this shows
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+Add caption explaining your workflow
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Alvin Dennis: Software implementation
+- Jobin Jose: The whole idea
+- Angel Maria: Documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
