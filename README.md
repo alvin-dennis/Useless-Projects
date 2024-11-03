@@ -59,18 +59,18 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
+![Homepage](https://github.com/alvin-dennis/Useless-Projects/blob/main/assets/demo.png)
+This is the homepage of the whole project
 
-![Screenshot2](Add screenshot 2 here with proper name)
-Add caption explaining what this shows
+![Demo1](https://github.com/alvin-dennis/Useless-Projects/blob/main/assets/demo1.png)
+This is the pic where a random answer as a number is given according to the input 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
+![Demo2](https://github.com/alvin-dennis/Useless-Projects/blob/main/assets/demo2.png)
+This is the pic where a random answer as a sentence is given according to the input 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
+![Workflow](https://github.com/alvin-dennis/Useless-Projects/blob/main/assets/workflow.png)
+This workflow diagram explains the process behind the quirkulator application. Starting from user input, the process flows through calculation initiation and a loading state, leading to a random response generation step. Based on a random condition, the application either produces an incorrect calculation result or returns a playful compliment. Finally, the output is displayed to the user, completing the humorous interaction.
 
 ## Team Contributions
 - Alvin Dennis: Led software implementation
