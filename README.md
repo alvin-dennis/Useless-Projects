@@ -19,7 +19,7 @@ A calculator that always gives you the wrong answer on purpose. Or, instead of n
 Ever been overwhelmed by the burden of accurate math? Have you ever felt weighed down by calculators always giving you the correct answer? Numbers, math, and precision can be so stressful. What if you wanted just a bit of random positivity instead of the cold, hard truth of numbers? Why let calculators monopolize “correctness” when they could deliver smiles and wrong answers instead?
 
 ### The Solution (that nobody asked for)
-Enter the **Quirkulator**! Instead of accurate math, this innovative calculator brings you the results you never needed in the first place. With each “calculation,” it might give you a hilariously off-the-mark answer or, better yet, a random compliment like, “You’re a math genius!” or “Wow, look at you go!” Our calculator may be useless for math, but it’s a powerhouse of encouragement. Why settle for mere math when you could get a dose of positivity with every “calculation”?
+Enter the **Quirkulator**! Instead of accurate math, this innovative calculator brings you the results you never needed in the first place. With each “calculation,” it might give you a hilariously off-the-mark answer or, better yet, a random sentences!!
 
 ## Technical Details
 ### Technologies/Components Used
