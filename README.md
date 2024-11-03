@@ -40,12 +40,18 @@ For Software:
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/alvin-dennis/useless-calculator.git
+git clone https://github.com/alvin-dennis/Useless-Projects.git
+```
 
+```bash
 cd useless-calculator
+```
 
+```bash
 npm install
-
+```
+# Running
+```bash
 npm run dev
 ```
 
@@ -67,9 +73,9 @@ Add caption explaining what this shows
 Add caption explaining your workflow
 
 ## Team Contributions
-- Alvin Dennis: Software implementation
-- Jobin Jose: The whole idea
-- Angel Maria: Documentation
+- Alvin Dennis: Led software implementation
+- Jobin Jose: Developed the project concept
+- Angel Maria: Managed documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
